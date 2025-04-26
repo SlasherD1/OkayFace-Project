@@ -20,7 +20,7 @@ const Navbar = () => {
       {/* Desktop menu */}
       <ul className="hidden md:flex items-center gap-8">
         <a
-          href="https://t.me/lololcoinn"
+          href="https://t.me/okaycoinn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"
@@ -31,7 +31,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://x.com/Lol_coinn"
+          href="https://x.com/Okaycoinn"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2"
@@ -64,7 +64,7 @@ const Navbar = () => {
       {menuOpen && (
         <ul className="absolute top-16 left-0 w-full flex flex-col items-center gap-6 py-6 md:hidden">
           <a
-            href="https://t.me/lololcoinn"
+            href="https://t.me/okaycoinn"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"
@@ -75,7 +75,7 @@ const Navbar = () => {
           </a>
 
           <a
-            href="https://x.com/Lol_coinn"
+            href="https://x.com/Okaycoinn"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2"

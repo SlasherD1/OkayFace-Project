@@ -11,7 +11,7 @@ const Footer = () => {
       <div className="flex flex-col gap-2 items-center justify-center">
         <div className="flex gap-2 items-center">
           <a
-            href="https://x.com/Lol_coinn"
+            href="https://x.com/Okaycoinn"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -23,7 +23,7 @@ const Footer = () => {
             <img src={logoPump} alt="DEX" width={35} height={24} />
           </div>
           <a
-            href="https://t.me/lololcoinn"
+            href="https://t.me/okaycoinn"
             target="_blank"
             rel="noopener noreferrer"
           >

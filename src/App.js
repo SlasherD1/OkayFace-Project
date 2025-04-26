@@ -55,11 +55,14 @@ const App = () => {
               JUST LET ME EXPLAIN IT
             </h1>
             <h1 className="text-base md:text-lg container font-semibold text-center">
-              Doomer Coin is not just a token. It's a lifestyle choice. It's the
-              digital equivalent of sighing at your reflection at 3 AM while
-              chain-smoking and wondering where it all went wrong. Forget Lambos
-              and moon missions — here, we just vibe, cope, and scroll
-              endlessly.
+              Alright, listen up, champ. You’ve stumbled upon Okay Coin , and
+              guess what? That’s the smartest decision you’ve made all day—don’t
+              @ me. But before we dive into this crypto-craziness, let’s get one
+              thing straight: You’re okay. Yes, YOU. Even if your Wi-Fi is
+              spotty, your coffee went cold, or you accidentally sent memes to
+              your boss… you’re still okay. And that’s why Okay Coin exists—to
+              help you stay okay while navigating the wild jungle
+              of digital coins.
             </h1>
           </div>
         </div>
@@ -83,20 +86,19 @@ const App = () => {
               BE "OKAY" TOGETHER
             </h1>
             <p className="text-base md:text-lg font-semibold">
-              Tired of fake positivity? Good. Here, we embrace existential dread
-              like an old friend. Link up with other caffeine-addicted,
-              nihilistic masterminds who know that life peaked at whatever year
-              you personally romanticize. Share your coping playlists, bad
-              decisions, and questionable memes. No ambitions. No expectations.
-              Just vibes... and maybe a few regrets.
+              So, you’re thinking about joining the Okay Coin crew? Smart move,
+              my friend. Here’s the scoop: being part of the Okay Coin community
+              isn’t just about making smarter financial decisions—it’s about
+              having FUN along the way. Think of us as the cool kids’ table in
+              the cafeteria, except everyone gets an invite, and no one has to
+              share their lunch money.
             </p>
             <button className="xl:self-start bg-white text-black font-reguler px-10 py-3 rounded-full hover:bg-gray-200 transition duration-300 text-4xl font-boldoa">
               OKAY
             </button>
           </div>
           <div className="w-full lg:w-1/2">
-            <div className="w-full h-full flex items-center justify-center">
-            </div>
+            <div className="w-full h-full flex items-center justify-center"></div>
           </div>
         </div>
       </section>
