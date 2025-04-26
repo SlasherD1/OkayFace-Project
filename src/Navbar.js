@@ -7,7 +7,6 @@ import {
   FaTelegramPlane,
 } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
-import logo from "./assets/images/logo.png";
 import logoDex from "./assets/images/logo_dex.png";
 
 const Navbar = () => {
@@ -16,11 +15,6 @@ const Navbar = () => {
   return (
     <nav className="rajdhani flex justify-between items-center px-8 py-5 text-white absolute top-0 left-0 right-0 w-full z-50 font-boldoa">
       <div className="flex items-center gap-2">
-        <img
-          src={logo}
-          alt="Logo"
-          className="w-20 h-auto sm:w-24 md:w-28 lg:w-20 xl:w-20"
-        />
       </div>
 
       {/* Desktop menu */}
@@ -60,9 +54,9 @@ const Navbar = () => {
       {/* Mobile toggle */}
       <div className="md:hidden z-50" onClick={() => setMenuOpen(!menuOpen)}>
         {menuOpen ? (
-          <FaTimes size={28} color="#000000" />
+          <FaTimes size={28} color="#ffffff" />
         ) : (
-          <FaBars size={28} color="#000000" />
+          <FaBars size={28} color="#ffffff" />
         )}
       </div>
 
